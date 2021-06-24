@@ -1,0 +1,14 @@
+.inputs {
+  width: 500px;
+  margin: auto;
+  margin-top: 20px;
+}
+.inputs button {
+  display: block;
+  margin: auto;
+  margin-top: 5px;
+  width: 200px;
+}
+.inputs input {
+  margin-top: 10px;
+}
